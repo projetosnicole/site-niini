@@ -1,0 +1,59 @@
+body{
+    background-color: #F0FFF0;
+    margin: 0%;
+}
+
+/* Style the header */
+.header{
+    background-color: darkgray;
+    padding: 20px;
+    text-align: center;
+}
+
+h1{
+    color: #D2691E;
+    text-align: center;
+}
+
+figure{
+    text-align: center;
+}
+
+.contaíner{
+    width: 70%;
+    margin: auto;
+    padding: 10px;
+}
+
+.img_corpo{
+    width: 65%;
+    margin: auto;
+}
+
+p{
+    color: black;
+    font-size: 1.5em;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+/* Style the topnav links */
+.topanav a{
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change color on hover */
+.topanav a:hover{
+    background-color: #D2691E;
+    color: black;
+}
+
+
+
